@@ -1,0 +1,32 @@
+Quartus II Archive log --	C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/SanjaySoodKavinKrishnanAssignment2.qarlog
+
+Archive:	C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/SanjaySoodKavinKrishnanAssignment2.qar
+Date:		Mon Mar 13 22:41:03 2017
+Quartus II 64-Bit		14.0.0 Build 200 06/17/2014 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Debug.qsf
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Debug_assignment_defaults.qdf
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Pll.cmp
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Pll.qip
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Pll.sip
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Pll.spd
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Pll.v
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Pll/Pll_0002.qip
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Pll/Pll_0002.v
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Pll_sim/Pll.vo
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Project.qpf
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Project.qsf
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Project.sdc
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Project.v
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/SevenSeg.v
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Test.asm
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/Test.mif
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/assignment_defaults.qdf
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/fmedian.mif
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/inclass-feg10.asm
+C:/Users/kavin/Documents/GitHub/Processor_Design/SingleBus/Verilog/Assignment2/inclass-feg10.mif
+	======= Total: 21 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
